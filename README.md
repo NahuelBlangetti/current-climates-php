@@ -10,7 +10,7 @@
 ## About Laravel
 <p>
    # Herramientas: 
-        Se utilizó JWT para la autenticación, para la BBDD MySql y para realizar testing Postman.
+        Se utilizó JWT para la autenticación, para la BBDD phpMyAdmin y para realizar testing Postman.
 </p>
 <p>
    # Modo de uso:
