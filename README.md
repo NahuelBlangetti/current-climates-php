@@ -19,7 +19,7 @@
    2) <b>Loguearse en</b> /api/auth/login (email y password) importante copiar el token.
    3) <b>ver usuario en</b> /api/auth/me.
    
-   4)<b>Buscar clima de una ciudad</b> /api/auth/climate (name).   
+   4) <b>Buscar clima de una ciudad</b> /api/auth/climate (name).   
    
    5) <b>Salir del usuario con</b> backend-production-8c44.up.railway.app/api/auth/logout.
 </p>
